@@ -3,12 +3,12 @@ body {
     margin: 0;
     padding: 0;
     background-color: black;
-    color: #FFB347;
+    color: #FFC733;
     line-height: 1.6;
 }
 
 header {
-    background: #FFA500;
+    background: #FFC733;
     color: black;
     padding: 20px;
     text-align: center;
@@ -19,6 +19,16 @@ nav ul {
     padding: 10px;
     list-style: none;
     text-align: center;
+}
+
+h2 {
+    color: #FFC733;
+    text-decoration: none;
+}
+
+h3 {
+    color: white;
+    text-decoration: none;
 }
 
 nav ul li {
