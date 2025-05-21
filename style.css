@@ -41,19 +41,11 @@ nav ul li {
     margin: 0 15px;
 }
 
-nav ul li strong {
-    display: inline;
-	color: white !important;
-    margin: 0 15px;
-}
-
 nav ul li a {
 	color: white !important;
     transition: color 0.3s ease-in-out;
 }
-nav ul li a:hover {
-    color: #FFC733; /* Lighter gold on hover */
-}
+
 section {
     padding: 20px;
 }
