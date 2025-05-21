@@ -27,7 +27,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #FFB347;
+    color: white;
     text-decoration: none;
 }
 
@@ -37,16 +37,16 @@ section {
 
 img {
     display: block;
-    max-width: 100%;
+    max-width: 6%;
     height: auto;
     margin: 20px auto;
-    border: 3px solid #FFB347;
+    border: 1px solid #FFB347;
 }
 
 footer {
     text-align: center;
     padding: 10px;
     background: black; /* Changed background to black */
-    color: yellow;
+    color: white;
     border: 1px solid #FFB347; /* Thin yellow border */
 }
