@@ -50,6 +50,7 @@ img {
     max-width: 6%;
     height: auto;
     margin: 20px auto;
+	border-radius: 50%;
     border: 1px solid #FFB347;
 }
 
@@ -59,4 +60,5 @@ footer {
     background: black; /* Changed background to black */
     color: white;
     border: 1px solid #FFB347; /* Thin yellow border */
+	max-width: auto;
 }
