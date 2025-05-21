@@ -21,18 +21,23 @@ nav ul {
     text-align: center;
 }
 
+p {
+    color: white;
+    text-decoration: none;
+}
 h2 {
     color: #FFC733;
     text-decoration: none;
 }
 
 h3 {
-    color: white;
+    color: #FFC733;
     text-decoration: none;
 }
 
 nav ul li {
     display: inline;
+	color: white;
     margin: 0 15px;
 }
 
@@ -47,11 +52,12 @@ section {
 
 img {
     display: block;
-    max-width: 6%;
+    max-width: 10%;
     height: auto;
     margin: 20px auto;
 	border-radius: 50%;
     border: 1px solid #FFB347;
+	float: left;
 }
 
 footer {
