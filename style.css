@@ -2,20 +2,20 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #181818;
+    background-color: #404242;
     color: #FFC733;
     line-height: 1.6;
 }
 
 header {
     background: #FFC733;
-    color: #181818;
+    color: #404242;
     padding: 20px;
     text-align: center;
 }
 
 nav ul {
-    background: #181818;
+    background: #404242;
     padding: 10px;
     list-style: none;
     text-align: center;
@@ -75,7 +75,7 @@ img {
 footer {
     text-align: center;
     padding: 5px 10px;
-    background: #181818; /* Changed background to black */
+    background: #404242; /* Changed background to black */
     color: white;
     border: 1px solid #FFB347; /* Thin yellow border */
 	display: inline-block;
