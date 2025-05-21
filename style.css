@@ -41,6 +41,12 @@ nav ul li {
     margin: 0 15px;
 }
 
+nav ul li strong {
+    display: inline;
+	color: white;
+    margin: 0 15px;
+}
+
 nav ul li a {
     transition: color 0.3s ease-in-out;
 }
