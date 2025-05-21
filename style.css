@@ -37,18 +37,18 @@ h3 {
 
 nav ul li {
     display: inline;
-	color: white;
+	color: white !important;
     margin: 0 15px;
 }
 
 nav ul li strong {
     display: inline;
-	color: white;
+	color: white !important;
     margin: 0 15px;
 }
 
 nav ul li a {
-	color: white;
+	color: white !important;
     transition: color 0.3s ease-in-out;
 }
 nav ul li a:hover {
