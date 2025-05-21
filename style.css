@@ -3,12 +3,12 @@ body {
     margin: 0;
     padding: 0;
     background-color: black;
-    color: yellow;
+    color: #FFB347;
     line-height: 1.6;
 }
 
 header {
-    background: yellow;
+    background: #FFA500;
     color: black;
     padding: 20px;
     text-align: center;
@@ -27,7 +27,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: yellow;
+    color: #FFB347;
     text-decoration: none;
 }
 
@@ -40,12 +40,13 @@ img {
     max-width: 100%;
     height: auto;
     margin: 20px auto;
-    border: 3px solid yellow;
+    border: 3px solid #FFB347;
 }
 
 footer {
     text-align: center;
     padding: 10px;
-    background: yellow;
-    color: black;
+    background: black; /* Changed background to black */
+    color: yellow;
+    border: 1px solid #FFB347; /* Thin yellow border */
 }
