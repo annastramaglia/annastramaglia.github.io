@@ -10,7 +10,7 @@ body {
 header {
     background: #FFC733;
     color: #404242;
-    padding: 0;
+    padding: -20px;
     text-align: center;
 }
 
@@ -55,13 +55,21 @@ section {
     display: flex;
     align-items: center;
 }
-img {
+.profile-img {
     display: block;
     max-width: 10%;
     height: auto;
     margin: 20px auto;
 	border-radius: 50%;
     border: 1px solid #FFB347;
+	margin-left: 20px;
+}
+
+.small-image {
+    display: block;
+    max-width: 3%;
+    height: auto;
+	object-fit: contain;
 	margin-left: 20px;
 }
 
