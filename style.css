@@ -45,6 +45,7 @@ ul li{
 nav ul li a {
 	color: white !important;
     transition: color 0.3s ease-in-out;
+	text-decoration: none;
 }
 
 section {
@@ -59,7 +60,6 @@ section {
     display: block;
     width: 20px;
     height: auto;
-	object-fit: contain;
 	margin-left: 20px;
 }
 
