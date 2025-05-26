@@ -66,7 +66,7 @@ section {
 
 .small-image {
     display: block;
-    width: 40px;
+    width: 30px;
     height: auto;
 	object-fit: contain;
 	margin-left: 20px;
