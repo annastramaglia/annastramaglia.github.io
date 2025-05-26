@@ -55,11 +55,10 @@ section {
     display: flex;
     align-items: center;
 }
-.profile-img {
+.profile-image {
     display: block;
-    max-width: 10%;
+    width: 20px;
     height: auto;
-    margin: 20px auto;
 	border-radius: 50%;
     border: 1px solid #FFB347;
 	margin-left: 20px;
@@ -67,7 +66,7 @@ section {
 
 .small-image {
     display: block;
-    max-width: 3%;
+    width: 10px;
     height: auto;
 	object-fit: contain;
 	margin-left: 20px;
