@@ -59,8 +59,7 @@ section {
     display: block;
     width: 20px;
     height: auto;
-	border-radius: 50%;
-    border: 1px solid #FFB347;
+	object-fit: contain;
 	margin-left: 20px;
 }
 
@@ -103,7 +102,7 @@ footer {
 }
 
 .code-box {
-    background-color: #f4f4f4;
+    background-color: #FFD166;
     padding: 0px;
     border-radius: 5px;
     font-family: monospace;
