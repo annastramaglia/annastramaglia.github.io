@@ -58,14 +58,14 @@ section {
 }
 .profile-image {
     display: block;
-    width: 20px;
+    width: 200px;
     height: auto;
 	margin-left: 20px;
 }
 
 .small-image {
     display: block;
-    width: 10px;
+    width: 50px;
     height: auto;
 	object-fit: contain;
 	margin-left: 20px;
@@ -102,7 +102,7 @@ footer {
 }
 
 .code-box {
-    background-color: #FFD166;
+    background-color: #404242;
     padding: 0px;
     border-radius: 5px;
     font-family: monospace;
