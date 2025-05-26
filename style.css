@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    margin: 0;
+    margin-left: 50px;
     padding: 0;
     background-color: #404242;
     color: #FFC733;
@@ -93,3 +93,12 @@ footer {
 .underline:hover::after {
     width: 100%;
 }
+
+<style>
+    .code-box {
+        background-color: #f4f4f4;
+        padding: 10px;
+        border-radius: 5px;
+        font-family: monospace;
+    }
+</style>
