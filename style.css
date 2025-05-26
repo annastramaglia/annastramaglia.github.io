@@ -10,7 +10,7 @@ body {
 header {
     background: #FFC733;
     color: #404242;
-    padding-left: 0;
+    padding-left: 0px;
     text-align: center;
 }
 
@@ -69,7 +69,7 @@ section {
     width: 40px;
     height: auto;
 	object-fit: contain;
-	margin-left: 0;
+	margin-left: 20px;
 }
 
 footer {
