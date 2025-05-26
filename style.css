@@ -95,12 +95,10 @@ footer {
     width: 100%;
 }
 
-<style>
-    .code-box {
-        background-color: #f4f4f4;
-        padding: 0px;
-        border-radius: 5px;
-        font-family: monospace;
-		display: inline-block;
-    }
-</style>
+.code-box {
+    background-color: #f4f4f4;
+    padding: 0px;
+    border-radius: 5px;
+    font-family: monospace;
+	display: inline-block;
+}
