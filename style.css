@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    margin-left: 50px;
+    margin: 0;
     padding-left: 50px;
     background-color: #404242;
     color: #FFC733;
@@ -15,7 +15,7 @@ header {
 }
 
 nav ul {
-	display: inline-block;
+	display: flex;
     background: #404242;
     padding: 10px;
     list-style: none;
