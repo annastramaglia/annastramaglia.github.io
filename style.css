@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
-    margin: 0;
-    padding-left: 50px;
+    margin-left: 50px;
+    padding: 0;
     background-color: #404242;
     color: #FFC733;
     line-height: 1.6;
@@ -10,7 +10,7 @@ body {
 header {
     background: #FFC733;
     color: #404242;
-    padding: 20px;
+    padding: 10px;
     text-align: center;
 }
 
