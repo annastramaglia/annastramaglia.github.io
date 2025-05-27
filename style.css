@@ -69,7 +69,7 @@ section {
     width: 30px;
     height: auto;
 	object-fit: contain;
-	margin-left: 20px;
+	margin-left: 0;
 }
 
 footer {
@@ -80,6 +80,7 @@ footer {
     bottom: 0;
     width: 100%;
     border-top: 1px solid #FFB347;
+    font-size:smaller;
 }
 
 .underline {
@@ -112,6 +113,7 @@ footer {
 
 .container {
     display: flex; /* Enables flexbox layout */
+    align-items: flex-start;
 }
 
 .box {
@@ -119,8 +121,9 @@ footer {
     height: 30px; /* Adjust height */
     background-color: #FFC733;
     color: #404242;
-    display: flex;
     text-align: center;
-    align-content:center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     margin-right: 20px; /* Adds space between the box and the text */
 }
