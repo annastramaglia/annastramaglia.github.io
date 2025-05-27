@@ -135,7 +135,7 @@ footer {
 }
 
 .box {
-    width: 60px; /* Adjust width */
+    width: 80px; /* Adjust width */
     height: 30px; /* Adjust height */
     background-color: #FFC733;
     color: #404242;
@@ -147,6 +147,8 @@ footer {
 }
 
 .box-2 {
+    width: 120px; /* Adjust width */
+    height: 30px; /* Adjust height */
     background-color: #FFC733;
     color: #404242;
     text-align: center;
