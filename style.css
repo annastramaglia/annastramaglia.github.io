@@ -1,5 +1,6 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900italic,900);
 body {
-    font-family: Perpetua, sans-serif;
+    font-family: 'Roboto', sans-serif;
     justify-content: center;
     background-color: #404242;
     color: #FFC733;
@@ -118,6 +119,7 @@ footer {
     width: 60px; /* Adjust width */
     height: 30px; /* Adjust height */
     background-color: #FFC733;
+    color: #404242;
     display: flex;
     text-align: center;
     margin-right: 20px; /* Adds space between the box and the text */
