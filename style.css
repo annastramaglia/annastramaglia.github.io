@@ -7,11 +7,15 @@ body {
     line-height: 1.6;
 }
 
+
 header {
-    background: #FFC733;
+    background-image: url('images/header-bg.jpg'); /* Path to your image */
+    background-size: cover; /* Ensures the image covers the header */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents repetition */
+    height: 200px; /* Adjust height as needed */
     color: #404242;
     text-align: center;
-    border-bottom: 1px solid #FFB347;
 }
 
 nav ul {
@@ -137,4 +141,9 @@ footer {
     align-items: center;
     justify-content: center;
     margin-right: 20px; /* Adds space between the box and the text */
+}
+
+.line {
+    height: 1px;
+    background-color: #FFB347;
 }
