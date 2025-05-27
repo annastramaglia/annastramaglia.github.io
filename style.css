@@ -1,7 +1,7 @@
 body {
+    display: flex;
     font-family: Arial, sans-serif;
-    margin-left: 50px;
-    padding: 0;
+    text-align: center;
     background-color: #404242;
     color: #FFC733;
     line-height: 1.6;
@@ -37,9 +37,10 @@ h3 {
 }
 
 
-ul li{
-	color: white !important;
+ul li {
+    color: white !important;
     transition: color 0.3s ease-in-out;
+    text-decoration: none;
 }
 
 nav ul li a {
@@ -75,7 +76,7 @@ section {
 footer {
     text-align: center;
     padding: 5px 10px;
-    background: #404242; /* Changed background to black */
+    background: #404242; /* Changed background to dark gray */
     color: white;
     border: 1px solid #FFB347; /* Thin yellow border */
 	display: inline-block;
@@ -108,4 +109,18 @@ footer {
     border-radius: 5px;
     font-family: monospace;
 	display: inline-block;
+}
+
+.container {
+    display: flex; /* Enables flexbox layout */
+    align-items: center; /* Aligns items vertically */
+}
+
+.box {
+    background-color: lightgray;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-right: 20px; /* Adds space between the box and the text */
 }
