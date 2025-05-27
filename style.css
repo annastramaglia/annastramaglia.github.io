@@ -10,6 +10,8 @@ body {
     color: #FFC733;
     line-height: 1.6;
     width: 100%;
+    margin: 0;
+    padding: 0;
 }
 
 .header {
