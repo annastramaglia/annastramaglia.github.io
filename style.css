@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
 body {
-    font-family: Arial, sans-serif;
+    font-family: Roboto, sans-serif;
     justify-content: center;
     background-color: #404242;
     color: #FFC733;
@@ -25,12 +27,12 @@ p {
     text-decoration: none;
 }
 h2 {
-    color: #FFC733;
+    color: white;
     text-decoration: none;
 }
 
 h3 {
-    color: #FFC733;
+    color: white;
     text-decoration: none;
 }
 
@@ -72,13 +74,14 @@ section {
 }
 
 footer {
-    text-align: center;
-    padding: 5px 10px;
-    background: #404242; /* Changed background to black */
-    color: white;
-    border: 1px solid #FFB347; /* Thin yellow border */
-	display: inline-block;
-	width: auto;
+    background-color: #404242; /* Dark background */
+    color: white; /* White text */
+    text-align: center; /* Centers the text */
+    padding: 10px;
+    position: fixed; /* Sticks to the bottom */
+    bottom: 0;
+    width: 100%;
+    border-top: 1px solid #FFB347;
 }
 
 .underline {
@@ -115,12 +118,11 @@ footer {
 }
 
 .box {
-    width: 50px; /* Adjust width */
+    width: 60px; /* Adjust width */
     height: 30px; /* Adjust height */
     background-color: #404242;
     border: 1px solid black;
     display: flex;
-    align-items: center;
     justify-content: center;
     text-align: center;
     margin-right: 20px; /* Adds space between the box and the text */
