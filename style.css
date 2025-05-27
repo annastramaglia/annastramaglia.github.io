@@ -1,7 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    margin-left: 50px;
-    padding: 0;
+    justify-content: center;
     background-color: #404242;
     color: #FFC733;
     line-height: 1.6;
@@ -10,7 +9,6 @@ body {
 header {
     background: #FFC733;
     color: #404242;
-    padding-left: 0px;
     text-align: center;
 }
 
@@ -117,9 +115,9 @@ footer {
 }
 
 .box {
-    width: 100px; /* Adjust width */
-    height: 100px; /* Adjust height */
-    background-color: #FFD166;
+    width: 50px; /* Adjust width */
+    height: 30px; /* Adjust height */
+    background-color: #404242;
     border: 1px solid black;
     display: flex;
     align-items: center;
