@@ -13,9 +13,11 @@ body {
     background-size: cover; /* Ensures the image covers the header */
     background-position: center; /* Centers the image */
     background-repeat: no-repeat; /* Prevents repetition */
-    height: 120px; /* Adjust height as needed */
+    height: 100px; /* Adjust height as needed */
     color: #404242;
     text-align: center;
+    align-items: center;
+    justify-content: center;
 }
 
 nav ul {
