@@ -55,6 +55,9 @@ h3 {
     padding-left: 5px;
 }
 
+ul {
+    padding: 0;
+}
 
 ul li {
     color: white !important;
@@ -122,7 +125,6 @@ footer {
 
 .code-box {
     background-color: #404242;
-    padding: 0px;
     border-radius: 5px;
     font-family: monospace;
 	display: inline-block;
