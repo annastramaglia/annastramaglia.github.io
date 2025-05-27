@@ -11,6 +11,7 @@ header {
     background: #FFC733;
     color: #404242;
     text-align: center;
+    border-bottom: 1px solid #FFB347;
 }
 
 nav ul {
@@ -69,7 +70,7 @@ section {
     width: 30px;
     height: auto;
 	object-fit: contain;
-	margin-left: 0;
+	margin-left: 20px;
 }
 
 footer {
@@ -119,6 +120,16 @@ footer {
 .box {
     width: 60px; /* Adjust width */
     height: 30px; /* Adjust height */
+    background-color: #FFC733;
+    color: #404242;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 20px; /* Adds space between the box and the text */
+}
+
+.box-2 {
     background-color: #FFC733;
     color: #404242;
     text-align: center;
