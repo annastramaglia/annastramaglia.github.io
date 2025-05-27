@@ -8,12 +8,12 @@ body {
 }
 
 
-header {
+.header {
     background-image: url('images/header-bg.jpg'); /* Path to your image */
     background-size: cover; /* Ensures the image covers the header */
     background-position: center; /* Centers the image */
     background-repeat: no-repeat; /* Prevents repetition */
-    height: 200px; /* Adjust height as needed */
+    height: 140px; /* Adjust height as needed */
     color: #404242;
     text-align: center;
 }
