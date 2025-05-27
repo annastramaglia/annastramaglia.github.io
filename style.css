@@ -9,7 +9,7 @@ body {
 
 
 .header {
-    background-image: url('images/header-bg.jpg'); /* Path to your image */
+    background-image: url('images/backgroundheader.png'); /* Path to your image */
     background-size: cover; /* Ensures the image covers the header */
     background-position: center; /* Centers the image */
     background-repeat: no-repeat; /* Prevents repetition */
