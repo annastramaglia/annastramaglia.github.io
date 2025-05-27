@@ -10,9 +10,9 @@ body {
     color: #FFC733;
     line-height: 1.6;
     width: 100%;
-    margin-left: 10px;
-    margin-right: 10px;
-    padding: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 0;
 }
 
 .header {
@@ -149,9 +149,9 @@ footer {
 }
 
 .box-2 {
-    width: 125px; /* Adjust width */
+    width: 130px; /* Adjust width */
     height: 30px; /* Adjust height */
-    min-width: 125px;
+    min-width: 130px;
     background-color: #FFC733;
     color: #404242;
     text-align: center;
