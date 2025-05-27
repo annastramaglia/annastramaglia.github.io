@@ -2,7 +2,10 @@
 body {
     font-family: 'Roboto', sans-serif;
     justify-content: center;
-    background-color: #404242;
+    background-image: url('images/dark.png'); /* Path to your image */
+    background-size: cover; /* Ensures the image covers the header */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents repetition */
     color: #FFC733;
     line-height: 1.6;
 }
@@ -85,7 +88,7 @@ footer {
     text-align: center; /* Centers the text */
     padding: 10px;
     bottom: 0;
-    width: 100%;
+    width: 50%;
     border-top: 1px solid #FFB347;
     font-size:smaller;
 }
